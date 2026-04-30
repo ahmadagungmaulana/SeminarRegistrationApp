@@ -17,25 +17,6 @@ Aplikasi mobile Android untuk registrasi peserta seminar dengan antarmuka yang u
 - **Minimum SDK:** Android 5.0 (API 21)
 - **Target SDK:** Android 12+ (API 31+)
 
-## 📦 Struktur Project
-SeminarRegistrationApp/
-├── app/
-│   ├── manifests/
-│   │   └── AndroidManifest.xml
-│   ├── kotlin+java/
-│   │   └── com.example.seminarregistrasi/
-│   │       ├── FormActivity.kt
-│   │       ├── HomeActivity.kt
-│   │       ├── LoginActivity.kt
-│   │       ├── RegisterActivity.kt
-│   │       └── ResultActivity.kt
-│   └── res/
-│       ├── drawable/
-│       ├── layout/
-│       ├── values/
-│       └── xml/
-├── build.gradle
-└── README.md
 
 ## 🚀 Cara Menggunakan
 

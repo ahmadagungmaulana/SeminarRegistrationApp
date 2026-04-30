@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SeminarRegistrationApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Warna utama aplikasi -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background_light</item>
+
+        <!-- Style default untuk TextInputLayout agar konsisten -->
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+    </style>
+
+    <!-- Style khusus untuk tombol utama -->
+    <style name="PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Style untuk dropdown seminar -->
+    <style name="SpinnerDropDown" parent="Widget.MaterialComponents.PopupMenu.Overflow">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+</resources>

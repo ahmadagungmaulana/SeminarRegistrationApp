@@ -139,16 +139,8 @@ adb start-server
 
 ## 👨‍💻 Author
 
-**Nama Anda**
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
 
-## 📄 License
+- GitHub: [@username](https://github.com/ahmadagungmaulana)
 
-Project ini menggunakan lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail.
-
-
-
----
 
 **Made with ❤️ by Ahmad Agung Maulana**
